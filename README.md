@@ -9,6 +9,7 @@ Web App made with nextjs and typescript
 - Tailwind css
 - PayPal
 - mongodb
+- React-Hook-Form
 
 ## Pages
 - Store 
